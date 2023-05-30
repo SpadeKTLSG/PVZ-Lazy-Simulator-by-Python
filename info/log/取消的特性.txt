@@ -1,0 +1,15 @@
+1.4版本取消的特性:
+
+主程序中删除了如下方法,因为反复调试无效
+
+    def 清空植物():
+        for _ in 主动植物列表:
+            _ = []
+        for _ in 被动植物列表:
+            _ = []
+        for _ in 投掷物Group:
+            _ = pygame.sprite.Group()
+
+
+# 如果鼠标按下
+    pygame.mouse.set_cursor(*pygame.cursors.tri_left) #控制鼠标样式为手型 ,没有用,不搞了
