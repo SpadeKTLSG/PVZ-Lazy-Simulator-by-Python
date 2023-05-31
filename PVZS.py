@@ -55,7 +55,7 @@ if __name__ == "__main__":
 
     引导界面(screen)
     初始化界面(screen)
-    pygame.mixer.Sound('resource/audio/else/Kyle Xian - 植物大战僵尸九周年纪念 BGM串烧.mp3').play().set_volume(40)
+    pygame.mixer.Sound('resource/audio/else/Kyle Xian - 植物大战僵尸九周年纪念 BGM串烧.mp3').play()
     
     # !阳光区
     我的阳光 = 25
