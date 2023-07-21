@@ -33,3 +33,10 @@ Next, click the PVZS.py in root space, then enjoy it!
 打算暑假回去修个Bug再来, 做的不是很满意
 
 Plan to go back to fix a Bug in summer vacation
+
+停止更新 NO more update 
+---
+
+哦不, 手动管理刷新真的写一行就会爆炸! 我投降了! 下次还是多用用精灵类来管理罢 X(
+
+Oh No, manually controlling the refresh(flip) function really sucks! I surrender, maybe use more sprite next time X(
